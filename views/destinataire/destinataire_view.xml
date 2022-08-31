@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+<!--  Form  View  -->
+        <record id="view_expiditeurselect.form" model="ir.ui.view">
+            <field name="name">folder.managment.form</field>
+            <field name="model">expiditeur.select</field>
+            <field name="arch" type="xml">
+                <form>
+		 <group>
+		   <fields name="test_ids" />
+		   <fields name="test_apend" />
+		 </group>
+                </form>
+            </field>
+        </record>
+<!--  Form  View End -->
+
+</odoo>
+

@@ -1,0 +1,8 @@
+<odoo>
+    <menuitem
+     id="destinateur_menu"
+     name="Create Destinater/Expiditeur"
+     action="action_create_destinataire"
+     parent="menu_folders_master"
+     sequence="0"/>
+</odoo>

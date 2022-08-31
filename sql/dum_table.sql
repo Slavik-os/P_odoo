@@ -1,0 +1,6 @@
+-- Dum table 
+
+CREATE TABLE IF NOT EXISTS DUM_TABLE(
+ id SERIAL PRIMARY KEY,
+ 
+);

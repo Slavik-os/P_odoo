@@ -1,0 +1,8 @@
+<odoo>
+    <menuitem
+     id="create_info_menu"
+     name="Create information"
+     action="action_create_info_action"
+     parent="menu_folders_master"
+     sequence="1"/>
+</odoo>
